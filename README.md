@@ -1,11 +1,10 @@
-# Free Weather Moon Widget 🌦️🌑
+# Talvi's Weather Widget (TWW) 🌦️🌑
 
 A sleek, lightweight, and completely free weather widget built by **TalviFox**.
 
 This widget provides real-time local weather and a beautiful 4-day forecast popup, featuring dynamically calculated moon phases with authentic NASA imagery. It supports dual backends: the [US National Weather Service (NWS)](https://www.weather.gov/) and the globally available [Open-Meteo](https://open-meteo.com/) API.
 
 ## Why I Made This
-Because modern weather websites are bloated with tracking scripts, auto-playing video ads, and clickbait articles, and frankly, ads suck! I just wanted to see the forecast.
 > Because modern weather websites are bloated with tracking scripts, auto-playing video ads, and clickbait articles, and frankly, ads suck! I just wanted to see the forecast.
 > 
 > Furthermore, in many corporate or locked-down office environments, you don't have permission to install external software or ad-blockers, and even running custom internal code can be difficult. I built this to solve that problem. 
